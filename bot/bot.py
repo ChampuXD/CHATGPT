@@ -48,6 +48,8 @@ HELP_MESSAGE = """Commands:
 ⚪ /settings – Show settings
 ⚪ /balance – Show balance
 ⚪ /help – Show help
+ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ :- @TheShivanshu
+sᴜᴘᴘᴏʀᴛ :- @Freaky_Support
 """
 
 

@@ -1,5 +1,5 @@
 # ❤️ Donate
-This project is done on **pure enthusiasm** – true Open Source. Your donations **really motivate** me to support the project and **add new features**. If you've donated, text me on [Telegram](https://t.me/karfly) – I want to thank you personally! 
+This project is done on **pure enthusiasm** – true Open Source. Your donations **really motivate** me to support the project and **add new features**. If you've donated, text me on [Telegram](https://t.me/ChampuXD) – I want to thank you personally! 
 
 *At the moment only crypto donations are available. Soon I will add PayPal option*
 
@@ -19,7 +19,7 @@ This project is done on **pure enthusiasm** – true Open Source. Your donations
 
 # BTC
 
-Address: `bc1q7q0ckuteu4t7mudeqrq4m6rzgfery4r0xk4rym`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -27,7 +27,7 @@ Scan it with your crypto wallet:
 
 # ETH
 
-Address: `0xAca71cCdE4F4Ef8f82d437Be05A8EA705A66d5e8`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -35,7 +35,7 @@ Scan it with your crypto wallet:
 
 # BNB (BSC-20)
 
-Address: `0xAca71cCdE4F4Ef8f82d437Be05A8EA705A66d5e8`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -43,7 +43,7 @@ Scan it with your crypto wallet:
 
 # TRON
 
-Address: `TPUT2uL5fannBLcEq64pfvHftZB2a17Nze`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -51,7 +51,7 @@ Scan it with your crypto wallet:
 
 # USDT (ERC-20)
 
-Address: `0xAca71cCdE4F4Ef8f82d437Be05A8EA705A66d5e8`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -59,7 +59,7 @@ Scan it with your crypto wallet:
 
 # USDT (TRC-20)
 
-Address: `TPUT2uL5fannBLcEq64pfvHftZB2a17Nze`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -67,7 +67,7 @@ Scan it with your crypto wallet:
 
 # USDC (ERC-20)
 
-Address: `0xAca71cCdE4F4Ef8f82d437Be05A8EA705A66d5e8`
+Address: ``
 
 Scan it with your crypto wallet:
 
@@ -75,7 +75,7 @@ Scan it with your crypto wallet:
 
 # USDC (TRC-20)
 
-Address: `TPUT2uL5fannBLcEq64pfvHftZB2a17Nze`
+Address: ``
 
 Scan it with your crypto wallet:
 
